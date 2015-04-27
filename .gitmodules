@@ -1,3 +1,6 @@
 [submodule "BE2"]
 	path = BE2
 	url = https://github.com/sapk-tb/INF112-BE2
+[submodule "BE3"]
+	path = BE3
+	url = https://github.com/sapk-tb/INF112-BE3
